@@ -1,0 +1,28 @@
+{
+  "wallet": [
+    {
+      "id": "1",
+      "name": "Beatriz Carneiro",
+      "number": "1234 5678 9012 3456",
+      "expiry": "12/26",
+      "color": "#690d9b",
+      "brand": "visa"
+    },
+    {
+      "id": "2",
+      "name": "Leandro Alves",
+      "number": "1111 2222 3333 4444",
+      "expiry": "05/25",
+      "color": "#0EA5A4",
+      "brand": "amex"
+    },
+    {
+      "id": "de15",
+      "name": "Guilherme França",
+      "number": "1122 2211 4455 5544",
+      "expiry": "01/25",
+      "color": "#111827",
+      "brand": "mastercard"
+    }
+  ]
+}
